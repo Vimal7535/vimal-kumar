@@ -1,2 +1,0 @@
-# vimal-kumar
-My code
